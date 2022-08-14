@@ -35,4 +35,6 @@ https://user-images.githubusercontent.com/1814817/184529621-d53ee15b-33ad-48a7-a
 - pod 'Nimble'
 
 
+## CodeCoverage Report
+<img width="1237" alt="Screenshot 2022-08-14 at 12 56 49 PM" src="https://user-images.githubusercontent.com/1814817/184529778-29f5a68f-00e1-4e28-9808-4cea580071af.png">
 
