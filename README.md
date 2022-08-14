@@ -34,7 +34,24 @@ https://user-images.githubusercontent.com/1814817/184529621-d53ee15b-33ad-48a7-a
 - pod 'Quick'
 - pod 'Nimble'
 
+## Running The Tests Manually 
+
+Follow the steps to get test case reports:
+* Enable coverage Data under test schema section:
+* Select the Test Icon by pressing and holding Xcode Run Icon OR press `Command+Control+U`
+* In the Project Navigator under Test Navigator tab, check test status and coverage 
+
 
 ## CodeCoverage Report
 <img width="1237" alt="Screenshot 2022-08-14 at 12 56 49 PM" src="https://user-images.githubusercontent.com/1814817/184529778-29f5a68f-00e1-4e28-9808-4cea580071af.png">
+
+# MIT License
+
+Copyright 2022
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
