@@ -1,0 +1,18 @@
+excluded:
+- Carthage
+- Pods
+- iTunesMusicAppTests
+- iTunesMusicAppUITests
+
+disabled_rules: # rule identifiers turned on by default to exclude from running
+  - force_cast
+  - void_function_in_ternary
+  - cyclomatic_complexity
+  - function_body_length
+
+line_length:
+    warning: 250
+    error: 200
+    ignores_function_declarations: true
+    ignores_comments: true
+    ignores_urls: true
