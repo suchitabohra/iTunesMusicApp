@@ -26,7 +26,7 @@ Please note that you need to run **pod install** to run application on your mach
 
 
 ## Important Info 
-> _To demonstrate that I also have knowledge on using Cocoapods, I'm using few 3rd party pods like 
+> I'm using few 3rd party pods like 
 
 - pod 'Kingfisher'
 - pod 'MBProgressHUD' 
