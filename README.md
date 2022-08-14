@@ -19,10 +19,11 @@ You can also play a video, book, podcast, song.
 - [x] Clear README.md that explains how the code and the test can be run
 
 ## Running the app
-
 Once you have clonned the app to your local system, you can fire-up the app by opening _iTunesApp.xcworkspace_ file.
-
 Please note that you need to run **pod install** to run application on your machine.
+
+## App Video
+https://user-images.githubusercontent.com/1814817/184529621-d53ee15b-33ad-48a7-a0ee-4a4a6cc4667e.mov
 
 
 ## Important Info 
@@ -33,7 +34,5 @@ Please note that you need to run **pod install** to run application on your mach
 - pod 'Quick'
 - pod 'Nimble'
 
-### Known issues [FIXED]
 
-- [x] ~~UTs are not covered as I was completing the app's functionality and was stuck at some point and needed time to figure it out. This is because it's the first time I'm having hands on experience on the VIP architecture. Once I use it on day to day basis then I can assure you the pace will increase.~~
 
